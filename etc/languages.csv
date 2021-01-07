@@ -1,0 +1,52 @@
+ID,Number,Name,ISO639P3code,Glottocode,Chinese_Name,Latitude,Longitude
+TibetanWritten,1,Tibetan (Written),xct,clas1254,藏文,29.24,92.01
+TibetanLhasa,2,Tibetan (Lhasa),bod,tibe1272,藏（拉萨）,28.37,90.19
+TibetanDege,3,Tibetan (Dege),khg,kham1282,藏（德格）,31.93,91.71
+TibetanXiahe,4,Tibetan (Xiahe),adx,amdo1237,藏（夏河）,34.52,100.48
+TibetanZeku,5,Tibetan (Zeku),adx,amdo1237,藏（泽库）,34.52,100.48
+MenbaCuona,6,Menba (Cuona),,,门巴（错那）,,
+MenbaMotuo,7,Menba (Motuo),,,门巴（墨脱）,,
+QiangMawo,8,Qiang (Mawo),cng,nort2722,羌（麻窝）,32.28,103.19
+QiangTaoping,9,Qiang (Taoping),qxs,sout2728,羌（桃坪）,31.54,103.38
+PumiTaoba,10,Pumi (Taoba),pmi,nort2723,普米（桃巴）,28.66,101.31
+PumiQinghua,11,Pumi (Qinghua),pmj,sout2729,普米（箐花）,27.84,100.62
+rGyalrongSomo,12,rGyalrong (Somo),jya,,嘉戎（梭磨）,31.6,102.23
+Ergong,13,Ergong,ero,horp1239,尔龚,31.1,101.72
+MuyaMinyak,14,Muya [Minyak],mvm,muya1239,木雅,29.82,102.2
+ZhebaQueyu,15,Zhaba [Queyu],qvy,quey1238,扎巴,30.31,100.81
+Guiqiong,16,Guiqiong,gqi,guiq1238,贵琼,30.48,102.13
+ErsuGanluo,17,Ersu (Ganluo),ers,ersu1241,尔苏（甘洛）,29.29,102.21
+Namuyi,18,Namuyi,nmy,namu1246,纳木义,28.59,101.9
+ShixingXumi,19,Shixing [Xumi],sxg,shix1238,史兴,28.39,100.4
+YiXide,20,Yi (Xide),iii,sich1238,彝（喜德）,28.19,102.12
+YiDafang,21,Yi (Dafang),yig,wusa1235,彝（大方）,25.77,102.37
+YiNanjian,22,Yi (Nanjian),ywt,xish1235,彝（南涧）,24.87,100.71
+YiNanhua,23,Yi (Nanhua),ycl,lolo1259,彝（南华）,25.5,101.3
+YiMile,24,Yi (Mile),,,彝（弥勒）,,
+MojiangYi,25,Yi (Mojiang),yym,yuan1242,彝(墨江),,
+Liso,26,Lisu,lis,lisu1250,傈僳,26.91,98.94
+LijangNaxi,27,Naxi (Lijiang),nbf,naxi1246,纳西(丽江),27.46,100.18
+YongningNaxi,28,Naxi (Yongning),nbf,naxi1246,纳西(永宁),27.46,100.18
+BikaHani,29,Hani (Bika),,,哈尼(碧卡),,
+HayaHani,30,Hani (Haya),,,哈尼(哈雅),,
+HaobaiHani,31,Hani (Haobai),,,哈尼(豪白),,
+Lahu,32,Lahu,lhu,lahu1253,拉祜,21.27,100.21
+Jinou,33,Jinuo,jiu,youl1235,基诺,22.05,101.06
+DaliBai,34,Bai (Dali),bfs,sout2730,白(大理),25.52,100.29
+JianchuanBai,35,Bai (Jianchuan),bca,cent2004,白(剑川),26.17,99.71
+BijangBai,36,Bai (Bijiang),bfc,nort2724,白(碧江),26.93,99.66
+Tuja,37,Tujia,tji,nort2732,土家,29.3,109.76
+WrittenBurmese,38,Burmese (Written),mya,nucl1310,缅文,20.79,93.97
+SpokenBurmese,39,Burmese (Rangoon),mya,nucl1310,缅(仰光),20.79,93.97
+Achang,40,Achang (Longchuan),acn,acha1249,阿昌(龙川),24.35,97.74
+Zaiwa,41,Zaiwa [Atsi],atb,zaiw1241,载瓦,24.17,98.36
+Lhao Vo,42,Langsu [Maru],mhx,maru1249,浪速,24.94,99.83
+Nung,43,Nu (Fugong) [Anong],nun,nung1282,怒(福贡),27.29,98.73
+Nusu,44,Nu (Bijiang) [Nusu],nuf,nusu1239,怒(碧江),26.73,98.88
+Derung (Drung),45,Trung,duu,drun1238,独龙,28.01,98.49
+Jingpho,46,Jingpho,kac,jing1260,景颇,25.46,97.33
+Miju,47,Deng (Kaman) [Miju],mxj,miju1243,僜(格曼),28.47,97.04
+Digaro Mishmi,48,Deng(Darang) [Taraon],mhu,diga1241,僜 (达让),28.5,96.88
+Idu Mishmi,49,Lhoba (yidu) [Idu],clk,idum1241,珞巴 (义都),29.45,95.65
+Bokar,50,Lhoba (Bokar) [Bokar],,boka1249,珞巴 (博嘠尔),28.37,94.04
+Puroik,51,Luoba (Sulung) [Puroik],suv,puro1234,珞巴 (苏龙),27.32,92.38
