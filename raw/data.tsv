@@ -4638,4 +4638,463 @@ SID	SWADESH	YAKHONTOV	ENGLISH	CHINESE	LANGUAGE	COGNATE	FORM	CONCEPTICON_ID	CONCE
 517	100	52	name	名字	48	1	ɑ³¹ mɯŋ⁵⁵		
 517	100	52	name	名字	49	1	ɑ⁵⁵ mu⁵⁵		
 517	100	52	name	名字	50	1	a min		
-517	100	52	name	名字	51	43	a³³ bɛʴŋ³³		
+517	100	52	name	名字	51	43	a³³ bɛʴŋ³³
+7		96	wind	风	1	1	lhag pa
+7		96	wind	风	2	1	ɬak⁵³ pa⁵⁵
+7		96	wind	风	3	1	luŋ⁵⁵
+7		96	wind	风	4	4	se re
+7		96	wind	风	5	1	wloŋ
+7		96	wind	风	6	4	røn¹³
+7		96	wind	风	7	4	ri di; mur
+7		96	wind	风	8	4	mu ʁu
+7		96	wind	风	9	4	mɑ³³ ʁu⁵⁵
+7		96	wind	风	10	10	mu⁵⁵ wa⁵³
+7		96	wind	风	11	11	mu⁵⁵ mo¹³
+7		96	wind	风	12	1	kha li
+7		96	wind	风	13	1	wu lɛ
+7		96	wind	风	14	11	mɐ̱⁵⁵ mɐ̱³³
+7		96	wind	风	15	1	ɬo⁵⁵ pa⁵³
+7		96	wind	风	16	16	mʉ³³ ji⁵⁵
+7		96	wind	风	17	17	mɛ⁵⁵ əʴ⁵⁵
+7		96	wind	风	18	18	mu⁵⁵ ʂɿ³³
+7		96	wind	风	19	1	ɬe⁵³
+7		96	wind	风	20	1	m̩u³³ ɬɿ³³
+7		96	wind	风	21	1	m̩u³³ hi³³
+7		96	wind	风	22	18	ɑ⁵⁵ m̩u̪²¹ ɕi⁵⁵
+7		96	wind	风	23	18	mɯ²¹ ɕi³³
+7		96	wind	风	24	1	mu²¹ ɬu³³;mɯ²¹ ɬɯ³³
+7		96	wind	风	25	1	me³³ xe³³
+7		96	wind	风	26	1	mi³¹ hi³³
+7		96	wind	风	27	1	xəɹ³³
+7		96	wind	风	28	1	ɬa³³
+7		96	wind	风	29	1	tsɔ³¹ li⁵⁵
+7		96	wind	风	30	1	dʑa³¹ le⁵⁵
+7		96	wind	风	31	1	tʃɔ³¹ li⁵⁵̥
+7		96	wind	风	32	1	mu⁵³ xɔ³³
+7		96	wind	风	33	1	li³¹ phjɐ³³
+7		96	wind	风	34	34	pi³⁵ si³⁵
+7		96	wind	风	35	34	pi⁵⁵ si⁵⁵
+7		96	wind	风	36	36	tɕui⁵⁵
+7		96	wind	风	37	37	zie³⁵ su⁵⁵
+7		96	wind	风	38	1	le²
+7		96	wind	风	39	1	le²²
+7		96	wind	风	40	1	li⁵⁵̥
+7		96	wind	风	41	1	lai⁵¹
+7		96	wind	风	42	1	la³¹
+7		96	wind	风	43	43	ɳɛ³¹ bu³¹
+7		96	wind	风	44	1	mɯ⁵⁵ ɑ³¹ ɬi³⁵
+7		96	wind	风	45	43	nɑ̆m⁵³ bɯ̆ŋ⁵³
+7		96	wind	风	46	43	n̩³¹ puŋ³³
+7		96	wind	风	47	43	bɑuŋ³⁵
+7		96	wind	风	48	4	xɑ³¹ ɹɯŋ⁵⁵
+7		96	wind	风	49	4	ɑ⁵⁵ ɹɑŋ⁵⁵ hɑ⁵⁵
+7		96	wind	风	50	1	ȵu luŋ
+7		96	wind	风	51	51	aŋ³³ huȶ⁵³
+113			horse	马	1	1	rta
+113			horse	马	2	1	ta⁵³
+113			horse	马	3	1	ta⁵³
+113			horse	马	4	1	hta
+113			horse	马	5	1	rta
+113			horse	马	6	1	te⁵³
+113			horse	马	7	1	kur ta
+113			horse	马	8	8	ɹu
+113			horse	马	9	8	ʐu⁵⁵
+113			horse	马	10	10	ɣuẽ³⁵
+113			horse	马	11	10	sgyɛ¹³̃
+113			horse	马	12	12	mbro
+113			horse	马	13	8	ʐɣi
+113			horse	马	14	10	ɣui³⁵
+113			horse	马	15	10	gi³⁵
+113			horse	马	16	12	mbu³⁵
+113			horse	马	17	12	nbo³³
+113			horse	马	18	18	mo⁵³
+113			horse	马	19	8	rɔ³⁵̃
+113			horse	马	20	18	m̩u³³
+113			horse	马	21	18	m̩u³³
+113			horse	马	22	18	a⁵⁵ m̩u̪²¹
+113			horse	马	23	18	mu²¹
+113			horse	马	24	18	mo²¹
+113			horse	马	25	18	mo³³
+113			horse	马	26	18	a⁵⁵ mo³¹
+113			horse	马	27	8	ʐuɑ³³
+113			horse	马	28	8	ʐua³³
+113			horse	马	29	18	mu³¹
+113			horse	马	30	18	mo³¹
+113			horse	马	31	18	ɔ³¹ mu³¹
+113			horse	马	32	18	i³⁵ mu⁵³
+113			horse	马	33	18	mjo³³
+113			horse	马	34	18	meʴ³³
+113			horse	马	35	18	mɛ³³
+113			horse	马	36	18	mo³³
+113			horse	马	37	18	ma⁵³
+113			horse	马	38	18	mrɑŋ³
+113			horse	马	39	18	mjĩ⁵⁵
+113			horse	马	40	18	m̥ʐaŋ³¹
+113			horse	马	41	18	mjaŋ²¹
+113			horse	马	42	18	mjɔ³⁵̃
+113			horse	马	43	18	mɛ³¹
+113			horse	马	44	18	mɹɯ³¹ lɑ⁵⁵
+113			horse	马	45	18	mɯ³¹ gɯ⁵³
+113			horse	马	46	8	kum³¹ ʒa³¹
+113			horse	马	47	8	pɑ³¹ xoŋ³⁵
+113			horse	马	48	8	mɑ³¹ ɹoŋ⁵⁵
+113			horse	马	49	8	mɑ⁵⁵ ɹoŋ⁵³
+113			horse	马	50	10	ɕə kɯ
+113			horse	马	51	51	ɕi³³ chəʴ³³
+115			pig	猪	1	1	phag pa
+115			pig	猪	2	1	phak⁵³ pa⁵³
+115			pig	猪	3	1	phɑʔ⁵³
+115			pig	猪	4	1	hak
+115			pig	猪	5	1	hak
+115			pig	猪	6	1	phᴀʔ⁵³
+115			pig	猪	7	1	phak pa
+115			pig	猪	8	1	pi
+115			pig	猪	9	1	pa³³
+115			pig	猪	10	10	tɕyɛ³⁵
+115			pig	猪	11	1	phʒɑ¹³
+115			pig	猪	12	1	pak
+115			pig	猪	13	1	va
+115			pig	猪	14	14	ʑyi³⁵
+115			pig	猪	15	1	we⁵⁵
+115			pig	猪	16	1	phɑ⁵³
+115			pig	猪	17	1	vɛ⁵⁵
+115			pig	猪	18	1	va³³
+115			pig	猪	19	1	bie³⁵
+115			pig	猪	20	1	vo⁵⁵
+115			pig	猪	21	1	va¹³
+115			pig	猪	22	1	a⁵⁵ vi̱²¹
+115			pig	猪	23	1	ve̱²¹
+115			pig	猪	24	1	ve̱²¹
+115			pig	猪	25	1	ve̱²¹
+115			pig	猪	26	1	ɑ⁵⁵ vɛ⁴¹
+115			pig	猪	27	1	bu³¹
+115			pig	猪	28	1	bu¹³
+115			pig	猪	29	1	va̱³¹
+115			pig	猪	30	1	a³¹ ɣa̱³¹
+115			pig	猪	31	1	a³¹ ja³¹
+115			pig	猪	32	1	vᴀ²¹
+115			pig	猪	33	1	va⁴⁴ ni⁴⁴
+115			pig	猪	34	34	te⁴²
+115			pig	猪	35	34	te⁴²
+115			pig	猪	36	34	te⁴²
+115			pig	猪	37	37	tsi⁵³
+115			pig	猪	38	1	wɑk
+115			pig	猪	39	1	wɛʔ⁴⁴
+115			pig	猪	40	1	oʔ⁵⁵
+115			pig	猪	41	1	vaʔ²¹
+115			pig	猪	42	1	vɔʔ³¹
+115			pig	猪	43	1	ʔu⁵⁵
+115			pig	猪	44	1	vɑ̱⁵³
+115			pig	猪	45	1	wɑ̆ʔ⁵⁵
+115			pig	猪	46	1	waʔ³¹
+115			pig	猪	47	47	li⁵⁵
+115			pig	猪	48	47	bɯ³¹ liɑi⁵⁵
+115			pig	猪	49	47	bi⁵⁵ li⁵⁵
+115			pig	猪	50	47	ə jək
+115			pig	猪	51	51	mə³³ du³³
+117			goat	山羊	1	1	ra
+117			goat	山羊	2	1	ra¹³
+117			goat	山羊	3	1	ra¹³
+117			goat	山羊	4	1	ra ma
+117			goat	山羊	5	1	ra
+117			goat	山羊	6	1	rᴀ¹³
+117			goat	山羊	7	1	ra ba
+117			goat	山羊	8	8	tsa
+117			goat	山羊	9	8	tshie⁵⁵
+117			goat	山羊	10	8	tɕhɪ³⁵̃ dʐa³⁵
+117			goat	山羊	11	8	tshɤ⁵⁵
+117			goat	山羊	12	8	tʃhət
+117			goat	山羊	13	8	tshɛ
+117			goat	山羊	14	8	tshɯ⁵³ tɕha⁵³
+117			goat	山羊	15	8	tshɛ⁵³
+117			goat	山羊	16	8	tɕhi⁵³
+117			goat	山羊	17	8	tshi⁵⁵
+117			goat	山羊	18	8	tshɿ³⁵
+117			goat	山羊	19	8	tshɿ⁵⁵
+117			goat	山羊	20	8	tʂhɿ⁵⁵
+117			goat	山羊	21	8	tshe¹³
+117			goat	山羊	22	8	a⁵⁵ tʂhɿ̱²¹
+117			goat	山羊	23	8	ᴀ³³ tʂhi̱⁵⁵
+117			goat	山羊	24	8	tɕhi̱²¹
+117			goat	山羊	25	8	ᴀ⁵⁵ tɕhi̱²¹
+117			goat	山羊	26	8	ɑ⁵⁵ tʃhɿ⁴¹
+117			goat	山羊	27	8	tshɯ⁵⁵
+117			goat	山羊	28	8	tshəɹ¹³
+117			goat	山羊	29	8	tshɿ̱³¹
+117			goat	山羊	30	8	a³¹ tsi̱³¹
+117			goat	山羊	31	8	a³¹ tʃhɿ̱³¹
+117			goat	山羊	32	8	ᴀ³⁵ tshe²¹
+117			goat	山羊	33	8	tɕhi⁴⁴ pɛ⁴²
+117			goat	山羊	34	34	xɯ⁴⁴ jou²¹
+117			goat	山羊	35	34	ko²¹ jõ²¹
+117			goat	山羊	36	34	qo⁴² ȵo²¹
+117			goat	山羊	37	37	zo³⁵
+117			goat	山羊	38	8	hsit
+117			goat	山羊	39	8	hseʔ⁴⁴
+117			goat	山羊	40	0
+117			goat	山羊	41	41	pai²¹ nam⁵⁵
+117			goat	山羊	42	0
+117			goat	山羊	43	43	ɑ³¹ bɛ⁵⁵
+117			goat	山羊	44	8	tʂhə̃ʴ⁵⁵
+117			goat	山羊	45	8	ɑ³¹ tɕĭt⁵⁵
+117			goat	山羊	46	43	pai³¹ nam³³
+117			goat	山羊	47	8	kɯ³¹ tɕi⁵³
+117			goat	山羊	48	8	kɯ³¹ tɕi⁵³
+117			goat	山羊	49	8	kɯ³¹ tɕi⁵⁵
+117			goat	山羊	50	1	ɕə rə
+117			goat	山羊	51	51	sə³³ ɣu³³
+118			sheep	绵羊	1	1	lug
+118			sheep	绵羊	2	1	luʔ¹³
+118			sheep	绵羊	3	1	luʔ³¹
+118			sheep	绵羊	4	1	lək
+118			sheep	绵羊	5	1	lək
+118			sheep	绵羊	6	1	jeŋ¹³
+118			sheep	绵羊	7	7	ɕi ɕa
+118			sheep	绵羊	8	8	ȵu
+118			sheep	绵羊	9	9	χgy³³
+118			sheep	绵羊	10	10	ʐã⁵⁵
+118			sheep	绵羊	11	10	ʒɑ̃u⁵⁵
+118			sheep	绵羊	12	10	kə jo
+118			sheep	绵羊	13	13	ɣi
+118			sheep	绵羊	14	14	ʁɑ³⁵
+118			sheep	绵羊	15	10	ji⁵⁵
+118			sheep	绵羊	16	16	tɕhɔ³³̃
+118			sheep	绵羊	17	10	jo⁵⁵
+118			sheep	绵羊	18	10	jo⁵⁵
+118			sheep	绵羊	19	10	ɛ⁵⁵̃
+118			sheep	绵羊	20	10	ʑo³³
+118			sheep	绵羊	21	21	ho²¹
+118			sheep	绵羊	22	10	a⁵⁵ ʐu⁵⁵
+118			sheep	绵羊	23	10	ʑᴀ³³
+118			sheep	绵羊	24	10	ʐu³³ mɛ²¹
+118			sheep	绵羊	25	21	xɒ²¹ mo²¹
+118			sheep	绵羊	26	10	ɑ⁴⁴ ʒo³³
+118			sheep	绵羊	27	10	ʑu³¹
+118			sheep	绵羊	28	10	ʑu³³
+118			sheep	绵羊	29	10	jv⁵⁵̩
+118			sheep	绵羊	30	10	a³¹ jo⁵⁵
+118			sheep	绵羊	31	16	tʃhɿ̱³¹ ʒv⁵⁵̩
+118			sheep	绵羊	32	10	zɔ³¹
+118			sheep	绵羊	33	16	tɕɛ³³ a³³ mɔ³³
+118			sheep	绵羊	34	16|10	tsi³⁵ jou²¹
+118			sheep	绵羊	35	16|10	tsɛ⁵⁵̃ jõ²¹
+118			sheep	绵羊	36	8	tʂeʴ⁵⁵ ȵo²¹
+118			sheep	绵羊	37	10	zo³⁵
+118			sheep	绵羊	38	38	tho³
+118			sheep	绵羊	39	38	tθo⁵⁵
+118			sheep	绵羊	40	0
+118			sheep	绵羊	41	38	sau²¹ mji̱⁵⁵
+118			sheep	绵羊	42	0
+118			sheep	绵羊	43	10	ɑ³¹ iɑŋ³¹
+118			sheep	绵羊	44	10	iɑ̃⁵⁵
+118			sheep	绵羊	45	10	ɑ³¹ ɟɑ̆ŋ⁵³
+118			sheep	绵羊	46	38	să⁵⁵ ku⁵¹
+118			sheep	绵羊	47	1	lɯuk⁵⁵
+118			sheep	绵羊	48	10	kɯ³¹ joŋ³⁵
+118			sheep	绵羊	49	10	kɯ³¹ joŋ³⁵
+118			sheep	绵羊	50	10	ɕo joŋ
+118			sheep	绵羊	51	51	dʑua⁵³ mua¹¹
+152		76	snake	蛇	1	1	sbrul
+152		76	snake	蛇	2	1	tʂy¹⁵
+152		76	snake	蛇	3	1	ru⁵³
+152		76	snake	蛇	4	1	ru
+152		76	snake	蛇	5	1	ru
+152		76	snake	蛇	6	1	breː¹³
+152		76	snake	蛇	7	1	bu tɕhi la
+152		76	snake	蛇	8	1	bəs
+152		76	snake	蛇	9	1	bə³¹ guə²⁴¹
+152		76	snake	蛇	10	1	bɐ³⁵ re⁵³
+152		76	snake	蛇	11	1	bɐ¹³ ʐɑ⁵⁵
+152		76	snake	蛇	12	1	kha brᴇ
+152		76	snake	蛇	13	1	mphʂi
+152		76	snake	蛇	14	14	ʐo⁵³
+152		76	snake	蛇	15	1	bru⁵³
+152		76	snake	蛇	16	16	tʂu⁵³
+152		76	snake	蛇	17	1	bɛ³³ rɿ⁵⁵
+152		76	snake	蛇	18	1	bəʴ⁵³
+152		76	snake	蛇	19	1	bɑ³³ ro⁵⁵
+152		76	snake	蛇	20	1|14	bu³³ ʂɿ³³
+152		76	snake	蛇	21	1|14	bu³³ sə³³
+152		76	snake	蛇	22	14|29	lɑ³³ ɕe⁵⁵
+152		76	snake	蛇	23	14	ʂɛ³³ mᴀ²¹
+152		76	snake	蛇	24	24	xᴀ³³ mo³³
+152		76	snake	蛇	25	14	sɛ⁵⁵
+152		76	snake	蛇	26	1	fu⁴⁴
+152		76	snake	蛇	27	14	ʐɯ³¹
+152		76	snake	蛇	28	14	ʐv³³ ba³³
+152		76	snake	蛇	29	29	ɤ⁵⁵ lu⁵⁵
+152		76	snake	蛇	30	29	o⁵⁵ lo⁵⁵
+152		76	snake	蛇	31	29	ɣɯ⁵⁵ lu⁵⁵̥
+152		76	snake	蛇	32	1	və³¹
+152		76	snake	蛇	33	33	ɣɯ⁴²
+152		76	snake	蛇	34	34	khv³³
+152		76	snake	蛇	35	34	khv³³
+152		76	snake	蛇	36	36	tʂheʴ³³; fv³³
+152		76	snake	蛇	37	37	wo⁵³
+152		76	snake	蛇	38	38	mrwe²
+152		76	snake	蛇	39	38	mwe²²
+152		76	snake	蛇	40	38	mʐui⁵⁵
+152		76	snake	蛇	41	38|29	la̱ŋ⁵¹ mui⁵¹
+152		76	snake	蛇	42	38	lɔ̱³¹̃ mɔi³¹
+152		76	snake	蛇	43	1	bɯ³¹
+152		76	snake	蛇	44	1	vɹia⁵⁵
+152		76	snake	蛇	45	1	bɯ⁵⁵
+152		76	snake	蛇	46	1	lă³¹ pu̱³³
+152		76	snake	蛇	47	1	ɹuɯl³⁵
+152		76	snake	蛇	48	1	tɑ³¹ bu⁵⁵
+152		76	snake	蛇	49	1	jɑ⁵⁵ bu⁵⁵
+152		76	snake	蛇	50	1	ta bɯ
+152		76	snake	蛇	51	1	pɯh⁵³
+172			hair/fur	毛	1	1	spu
+172			hair/fur	毛	2	1	pu⁵³
+172			hair/fur	毛	3	1	pu⁵³
+172			hair/fur	毛	4	4	hwə
+172			hair/fur	毛	5	4	wsə
+172			hair/fur	毛	6	1	pu⁵³
+172			hair/fur	毛	7	1	pu
+172			hair/fur	毛	8	8	hu pɑ
+172			hair/fur	毛	9	9	χmə³³
+172			hair/fur	毛	10	9	mɛ⁵³̃
+172			hair/fur	毛	11	9	ma⁵⁵
+172			hair/fur	毛	12	12	ta rȵᴇ
+172			hair/fur	毛	13	9	wmə ʐʑa
+172			hair/fur	毛	14	9	mo³⁵
+172			hair/fur	毛	15	9	m̥u⁵³
+172			hair/fur	毛	16	16	tshɔ³³̃
+172			hair/fur	毛	17	9	maʴ⁵⁵
+172			hair/fur	毛	18	8	hũ³³
+172			hair/fur	毛	19	19	sũ⁵⁵
+172			hair/fur	毛	20	20	ȵe³³
+172			hair/fur	毛	21	9	m̩u²¹
+172			hair/fur	毛	22	22	tɕhy⁵⁵
+172			hair/fur	毛	23	9	mɯ³³
+172			hair/fur	毛	24	20	i³³ nɯ̱³³
+172			hair/fur	毛	25	20	nu³³
+172			hair/fur	毛	26	9	e⁵⁵ mu⁴⁴
+172			hair/fur	毛	27	8	fv³³
+172			hair/fur	毛	28	8	xv³³
+172			hair/fur	毛	29	22	ɔ³¹ tshe⁵⁵
+172			hair/fur	毛	30	8	xɔ³³
+172			hair/fur	毛	31	22	tʃha³¹ xo³³
+172			hair/fur	毛	32	9	ɔ³¹ mu³³
+172			hair/fur	毛	33	9	ɑ³³ mɯ³³
+172			hair/fur	毛	34	9	mɑ²¹
+172			hair/fur	毛	35	9	mɑ²¹
+172			hair/fur	毛	36	9	mie²¹
+172			hair/fur	毛	37	37	si³⁵ ka⁵⁵
+172			hair/fur	毛	38	9	ɑ¹ mwe³
+172			hair/fur	毛	39	9	ɑ⁵³ mwe⁵⁵
+172			hair/fur	毛	40	9	a³¹ mui³¹
+172			hair/fur	毛	41	9	sŏ ²¹ mau⁵⁵
+172			hair/fur	毛	42	9	ʃɔ³⁵̆ muk⁵⁵
+172			hair/fur	毛	43	9	min⁵⁵
+172			hair/fur	毛	44	9	m̥ɯi⁵⁵
+172			hair/fur	毛	45	9	ɑŋ³¹ mɯ̆l⁵⁵
+172			hair/fur	毛	46	9	mun³³
+172			hair/fur	毛	47	47	bɯl³⁵
+172			hair/fur	毛	48	9	m̩⁵⁵
+172			hair/fur	毛	49	9	mɑ³¹ bu⁵³
+172			hair/fur	毛	50	9	a mɯ
+172			hair/fur	毛	51	9	a³³ muȵ³³
+219			mushroom	菌子	1	1	ɕa mo
+219			mushroom	菌子	2	1	ɕa⁵³ mo¹³
+219			mushroom	菌子	3	1	xhe⁵³ mu⁵⁵
+219			mushroom	菌子	4	1	xha mo
+219			mushroom	菌子	5	1	mo kho
+219			mushroom	菌子	6	6	ser⁵⁵ ɕᴀ⁵³
+219			mushroom	菌子	7	7	wun ba mu
+219			mushroom	菌子	8	8	tɕin tsə
+219			mushroom	菌子	9	1	mɑ³¹ ʐu³³
+219			mushroom	菌子	10	1	mi³⁵
+219			mushroom	菌子	11	1	mʐi¹³
+219			mushroom	菌子	12	1	tɐ jmok
+219			mushroom	菌子	13	1	lmɛu
+219			mushroom	菌子	14	1	mi³³ ntɕha⁵³
+219			mushroom	菌子	15	1	ɕa⁵⁵ mu⁵⁵
+219			mushroom	菌子	16	16	ndʐɿ³³ tsi⁵³
+219			mushroom	菌子	17	17	xə⁵⁵
+219			mushroom	菌子	18	1	mu³³ tʂha⁵⁵
+219			mushroom	菌子	19	1	mu³⁵
+219			mushroom	菌子	20	1	m̥u³³
+219			mushroom	菌子	21	1	m̩u³³ pa⁵⁵
+219			mushroom	菌子	22	1	ɕiɑŋ³³ ɕyĩ⁵⁵; m̩u̪⁵⁵
+219			mushroom	菌子	23	1	mɯ³³
+219			mushroom	菌子	24	1	mo³³ lo³³
+219			mushroom	菌子	25	1	mɯ⁵⁵ lɯ⁵⁵
+219			mushroom	菌子	26	1	mɯ³³ tʃʰi³¹
+219			mushroom	菌子	27	1	mu⁵⁵
+219			mushroom	菌子	28	1	mu¹³
+219			mushroom	菌子	29	1	me⁵⁵ lu⁵⁵
+219			mushroom	菌子	30	17	xɔ⁵⁵ lu⁵⁵
+219			mushroom	菌子	31	17	xu⁵⁵ tʃɿ̱³³
+219			mushroom	菌子	32	1	mu¹¹
+219			mushroom	菌子	33	1	mø³³ lu³³
+219			mushroom	菌子	34	34	seʴ⁴²
+219			mushroom	菌子	35	34	sɛ³³̃
+219			mushroom	菌子	36	34	ʂẽʴ³³
+219			mushroom	菌子	37	37	thu⁵⁵ si⁵⁵
+219			mushroom	菌子	38	1	hmo²
+219			mushroom	菌子	39	1	m̥o²²
+219			mushroom	菌子	40	1	mau⁵⁵
+219			mushroom	菌子	41	1	mau⁵¹
+219			mushroom	菌子	42	1	muk³¹
+219			mushroom	菌子	43	1	mɯ³¹ khɑm⁵⁵
+219			mushroom	菌子	44	1	m̥ɯ³⁵
+219			mushroom	菌子	45	1	mɯ³¹ kɑ̆m⁵⁵
+219			mushroom	菌子	46	1	mă⁵⁵ ti̱⁵¹
+219			mushroom	菌子	47	47	sɯ³¹ lɯi⁵⁵
+219			mushroom	菌子	48	48	tɑ³¹ kun⁵⁵
+219			mushroom	菌子	49	48	tɑ³¹ kun⁵⁵
+219			mushroom	菌子	50	50	ta jin
+219			mushroom	菌子	51	51	məŋ³³ tka³³ həʴ⁵³
+398		66	salt	盐	1	1	tshwa
+398		66	salt	盐	2	1	tsha⁵³
+398		66	salt	盐	3	1	tsha⁵³
+398		66	salt	盐	4	1	tsha
+398		66	salt	盐	5	1	tsha
+398		66	salt	盐	6	1	tshᴀ⁵³
+398		66	salt	盐	7	1	ʔin tɕa
+398		66	salt	盐	8	1	tshə
+398		66	salt	盐	9	1	tshɿ³³
+398		66	salt	盐	10	1	tshi⁵⁵
+398		66	salt	盐	11	1	tshi¹³
+398		66	salt	盐	12	1	tshɐ
+398		66	salt	盐	13	1	tshɯ
+398		66	salt	盐	14	1	tshɯ⁵³
+398		66	salt	盐	15	1	tshi⁵³
+398		66	salt	盐	16	1	tshi⁵³
+398		66	salt	盐	17	1	tshɿ³³
+398		66	salt	盐	18	1	tshɿ³³
+398		66	salt	盐	19	1	tshɐ⁵⁵
+398		66	salt	盐	20	1	tshɯ³³
+398		66	salt	盐	21	1	tshu³³ ba²¹
+398		66	salt	盐	22	1	tshɑ²¹ bo³³
+398		66	salt	盐	23	1	tsho²¹
+398		66	salt	盐	24	1	tsho²¹ mu̱³³
+398		66	salt	盐	25	1	tsho³³
+398		66	salt	盐	26	1	tshɑ⁴¹ bo⁴⁴
+398		66	salt	盐	27	1	tshe³³
+398		66	salt	盐	28	1	tshe³³
+398		66	salt	盐	29	1	tshɔ³¹ me̱³¹
+398		66	salt	盐	30	1	tsha³¹ dɤ̱³¹
+398		66	salt	盐	31	1	tsha³¹ tɤ³¹
+398		66	salt	盐	32	32	ᴀ³⁵ lɛ²¹
+398		66	salt	盐	33	1	tsha⁵⁵ kha³¹
+398		66	salt	盐	34	34	pi³⁵
+398		66	salt	盐	35	34	pɪ⁵⁵̃
+398		66	salt	盐	36	1	tsuɪ⁵⁵̃
+398		66	salt	盐	37	34	la³⁵ pu⁵⁵
+398		66	salt	盐	38	1	hsɑ³
+398		66	salt	盐	39	1	hsɑ⁵⁵
+398		66	salt	盐	40	1	tɕhɔ³¹
+398		66	salt	盐	41	1	i⁵⁵ tʃum²¹; tsho⁵⁵
+398		66	salt	盐	42	1	tshɔ³⁵
+398		66	salt	盐	43	32	sɿ³¹ lɑŋ⁵⁵
+398		66	salt	盐	44	1	tshɑ⁵⁵
+398		66	salt	盐	45	32	sɯ³¹ lɑ̆ʔ⁵⁵
+398		66	salt	盐	46	1	tʃum³¹
+398		66	salt	盐	47	47	tɯ³¹ min⁵⁵
+398		66	salt	盐	48	34	pla³⁵
+398		66	salt	盐	49	34	pɹɑ³⁵
+398		66	salt	盐	50	32	o lo
+398		66	salt	盐	51	51	hɔŋ³³		
