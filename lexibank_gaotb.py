@@ -9,10 +9,8 @@ import attr
 
 @attr.s
 class CustomLanguage(Language):
-    SubGroup = attr.ib(default=None)
-    Name_in_Source = attr.ib(default=None)
+    Number = attr.ib(default=None)
     Chinese_Name = attr.ib(default=None)
-
 
 
 class Dataset(BaseDataset):
@@ -20,7 +18,7 @@ class Dataset(BaseDataset):
     id = "gaotb"
     language_class = CustomLanguage
     form_spec = FormSpec(
-        missing_data=("---", ),
+        missing_data=("---",),
         separators="/",
         replacements=[(" ", "_")]
     )
@@ -35,12 +33,12 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                 ID=cid,
                 Name=concept['ENGLISH'],
-                #TODO: Uncomment when ready
-                #Concepticon_ID=concept['CONCEPTICON_ID'],
-                #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                # TODO: Uncomment when ready
+                # Concepticon_ID=concept['CONCEPTICON_ID'],
+                # Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
             )
             concepts[concept['ENGLISH']] = cid
-        languages = args.writer.add_languages(lookup_factory="Name_in_Source")
+        languages = args.writer.add_languages(lookup_factory="Number")
         args.writer.add_sources()
 
         for row in self.raw_dir.read_csv('data.tsv', delimiter='\t',
