@@ -49,7 +49,7 @@ class Dataset(BaseDataset):
         for row in self.raw_dir.read_csv('data.tsv', delimiter='\t', dicts=True):
             lid = languages.get(row['LANGUAGE'])
             cid = concepts.get(row['SID'])
-            if lid and cid and row["FORM"].strip()
+            if lid and cid and row["FORM"].strip():
                 args.writer.add_forms_from_value(
                     Language_ID=lid,
                     Parameter_ID=cid,
