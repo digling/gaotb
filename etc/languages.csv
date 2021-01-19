@@ -40,13 +40,13 @@ WrittenBurmese,38,Burmese (Written),mya,nucl1310,缅文,20.79,93.97
 SpokenBurmese,39,Burmese (Rangoon),mya,nucl1310,缅(仰光),20.79,93.97
 Achang,40,Achang (Longchuan),acn,acha1249,阿昌(龙川),24.35,97.74
 Zaiwa,41,Zaiwa [Atsi],atb,zaiw1241,载瓦,24.17,98.36
-Lhao Vo,42,Langsu [Maru],mhx,maru1249,浪速,24.94,99.83
+LhaoVo,42,Langsu [Maru],mhx,maru1249,浪速,24.94,99.83
 Nung,43,Nu (Fugong) [Anong],nun,nung1282,怒(福贡),27.29,98.73
 Nusu,44,Nu (Bijiang) [Nusu],nuf,nusu1239,怒(碧江),26.73,98.88
-Derung (Drung),45,Trung,duu,drun1238,独龙,28.01,98.49
+Derung,45,Trung,duu,drun1238,独龙,28.01,98.49
 Jingpho,46,Jingpho,kac,jing1260,景颇,25.46,97.33
 Miju,47,Deng (Kaman) [Miju],mxj,miju1243,僜(格曼),28.47,97.04
-Digaro Mishmi,48,Deng(Darang) [Taraon],mhu,diga1241,僜 (达让),28.5,96.88
-Idu Mishmi,49,Lhoba (yidu) [Idu],clk,idum1241,珞巴 (义都),29.45,95.65
+DigaroMishmi,48,Deng(Darang) [Taraon],mhu,diga1241,僜 (达让),28.5,96.88
+IduMishmi,49,Lhoba (yidu) [Idu],clk,idum1241,珞巴 (义都),29.45,95.65
 Bokar,50,Lhoba (Bokar) [Bokar],,boka1249,珞巴 (博嘠尔),28.37,94.04
 Puroik,51,Luoba (Sulung) [Puroik],suv,puro1234,珞巴 (苏龙),27.32,92.38
