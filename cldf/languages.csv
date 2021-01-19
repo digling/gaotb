@@ -1,0 +1,52 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Number,Chinese_Name
+TibetanWritten,Tibetan (Written),clas1254,,xct,,29.24,92.01,,1,藏文
+TibetanLhasa,Tibetan (Lhasa),tibe1272,,bod,,28.37,90.19,,2,藏（拉萨）
+TibetanDege,Tibetan (Dege),kham1282,,khg,,31.93,91.71,,3,藏（德格）
+TibetanXiahe,Tibetan (Xiahe),amdo1237,,adx,,34.52,100.48,,4,藏（夏河）
+TibetanZeku,Tibetan (Zeku),amdo1237,,adx,,34.52,100.48,,5,藏（泽库）
+MenbaCuona,Menba (Cuona),,,,,,,,6,门巴（错那）
+MenbaMotuo,Menba (Motuo),,,,,,,,7,门巴（墨脱）
+QiangMawo,Qiang (Mawo),nort2722,,cng,,32.28,103.19,,8,羌（麻窝）
+QiangTaoping,Qiang (Taoping),sout2728,,qxs,,31.54,103.38,,9,羌（桃坪）
+PumiTaoba,Pumi (Taoba),nort2723,,pmi,,28.66,101.31,,10,普米（桃巴）
+PumiQinghua,Pumi (Qinghua),sout2729,,pmj,,27.84,100.62,,11,普米（箐花）
+rGyalrongSomo,rGyalrong (Somo),jiar1240,,jya,,31.6,102.23,,12,嘉戎（梭磨）
+Ergong,Ergong,horp1239,,ero,,31.1,101.72,,13,尔龚
+MuyaMinyak,Muya [Minyak],muya1239,,mvm,,29.82,102.2,,14,木雅
+ZhebaQueyu,Zhaba [Queyu],quey1238,,qvy,,30.31,100.81,,15,扎巴
+Guiqiong,Guiqiong,guiq1238,,gqi,,30.48,102.13,,16,贵琼
+ErsuGanluo,Ersu (Ganluo),ersu1241,,ers,,29.29,102.21,,17,尔苏（甘洛）
+Namuyi,Namuyi,namu1246,,nmy,,28.59,101.9,,18,纳木义
+ShixingXumi,Shixing [Xumi],shix1238,,sxg,,28.39,100.4,,19,史兴
+YiXide,Yi (Xide),sich1238,,iii,,28.19,102.12,,20,彝（喜德）
+YiDafang,Yi (Dafang),wusa1235,,yig,,25.77,102.37,,21,彝（大方）
+YiNanjian,Yi (Nanjian),xish1235,,ywt,,24.87,100.71,,22,彝（南涧）
+YiNanhua,Yi (Nanhua),lolo1259,,ycl,,25.5,101.3,,23,彝（南华）
+YiMile,Yi (Mile),,,,,,,,24,彝（弥勒）
+MojiangYi,Yi (Mojiang),yuan1242,,yym,,,,,25,彝(墨江)
+Liso,Lisu,lisu1250,,lis,,26.91,98.94,,26,傈僳
+LijangNaxi,Naxi (Lijiang),naxi1246,,nbf,,27.46,100.18,,27,纳西(丽江)
+YongningNaxi,Naxi (Yongning),naxi1246,,nbf,,27.46,100.18,,28,纳西(永宁)
+BikaHani,Hani (Bika),,,,,,,,29,哈尼(碧卡)
+HayaHani,Hani (Haya),,,,,,,,30,哈尼(哈雅)
+HaobaiHani,Hani (Haobai),,,,,,,,31,哈尼(豪白)
+Lahu,Lahu,lahu1253,,lhu,,21.27,100.21,,32,拉祜
+Jinou,Jinuo,youl1235,,jiu,,22.05,101.06,,33,基诺
+DaliBai,Bai (Dali),sout2730,,bfs,,25.52,100.29,,34,白(大理)
+JianchuanBai,Bai (Jianchuan),cent2004,,bca,,26.17,99.71,,35,白(剑川)
+BijangBai,Bai (Bijiang),nort2724,,bfc,,26.93,99.66,,36,白(碧江)
+Tuja,Tujia,nort2732,,tji,,29.3,109.76,,37,土家
+WrittenBurmese,Burmese (Written),nucl1310,,mya,,20.79,93.97,,38,缅文
+SpokenBurmese,Burmese (Rangoon),nucl1310,,mya,,20.79,93.97,,39,缅(仰光)
+Achang,Achang (Longchuan),acha1249,,acn,,24.35,97.74,,40,阿昌(龙川)
+Zaiwa,Zaiwa [Atsi],zaiw1241,,atb,,24.17,98.36,,41,载瓦
+LhaoVo,Langsu [Maru],maru1249,,mhx,,24.94,99.83,,42,浪速
+Nung,Nu (Fugong) [Anong],nung1282,,nun,,27.29,98.73,,43,怒(福贡)
+Nusu,Nu (Bijiang) [Nusu],nusu1239,,nuf,,26.73,98.88,,44,怒(碧江)
+Derung,Trung,drun1238,,duu,,28.01,98.49,,45,独龙
+Jingpho,Jingpho,jing1260,,kac,,25.46,97.33,,46,景颇
+Miju,Deng (Kaman) [Miju],miju1243,,mxj,,28.47,97.04,,47,僜(格曼)
+DigaroMishmi,Deng(Darang) [Taraon],diga1241,,mhu,,28.5,96.88,,48,僜 (达让)
+IduMishmi,Lhoba (yidu) [Idu],idum1241,,clk,,29.45,95.65,,49,珞巴 (义都)
+Bokar,Lhoba (Bokar) [Bokar],boka1249,,,,28.37,94.04,,50,珞巴 (博嘠尔)
+Puroik,Luoba (Sulung) [Puroik],puro1234,,suv,,27.32,92.38,,51,珞巴 (苏龙)
