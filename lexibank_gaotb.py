@@ -25,7 +25,9 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(
         missing_data=("---",),
         separators="/;",
-        replacements=[(" ", "_")],
+        replacements=[
+            (" ", "_"), ('\u0306', ''), ('\u0329', ''), ('\u0303', ''),
+            ('\u0325', ''), ('\u0335', ''), ('\u0331', '')],
         first_form_only=True,
     )
 
