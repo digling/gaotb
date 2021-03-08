@@ -4,13 +4,15 @@ from lingpy.convert.plot import plot_tree
 
 from lexibank_gaotb import Dataset
 
-# wl = Wordlist.from_cldf(Dataset().cldf_dir.joinpath('cldf-metadata.json'))
-# wl.calculate('distances')
-# wl.output('dst', filename='expertCognates')
-# wl.calculate('tree', ref='cogid', tree_calc='upgma')
-# plot_tree(str(wl.tree), filename="treeEXP-UPGMA")
-# wl.calculate('tree', ref='cogid', tree_calc='neighbor', force=True)
-# plot_tree(str(wl.tree), filename="treeEXP-NEI")
+columns = columns=['concept_id', 'concept_name', 'language_id', 'language_name', 'value', 'form', 'cogid_cognateset_id']
+namespace = (('concept_name', 'concept'), ('language_id', 'doculect'), ('cogid_cognateset_id', 'cogid'))
+wl = Wordlist.from_cldf(Dataset().cldf_dir.joinpath('cldf-metadata.json'), columns=columns, namespace=namespace)
+wl.calculate('distances')
+wl.output('dst', filename='expertCognates')
+wl.calculate('tree', ref='cogid', tree_calc='upgma')
+plot_tree(str(wl.tree), filename="treeEXP-UPGMA")
+wl.calculate('tree', ref='cogid', tree_calc='neighbor', force=True)
+plot_tree(str(wl.tree), filename="treeEXP-NEI")
 
 #get our cldf data
 partSCA = Partial.from_cldf(Dataset().cldf_dir.joinpath('cldf-metadata.json'))
