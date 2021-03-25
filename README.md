@@ -2,13 +2,19 @@
 
 Cite the source dataset as
 
-> +++ plain text citation +++
+> Gao, Tianjun (2020): Reconstruction and analysis of phylogenetic network on Tibeto-Burman languages in China. Journal of Chinese Linguistics, 48:1, 257-293.
 
-This dataset is licensed under a CC0 1.0 Universal license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
 - [Sun-1991-1004](https://concepticon.clld.org/contributions/Sun-1991-1004)
+## Notes
+
+We are thankful to the author to share the original data underlying the study. The data itself was edited in a student project at the University Bielefeld (Winter semester 2020/2021) to allow us to convert the data to the CLDF formats. Major work in this context was done in order to digitize the wordlist data, which was only available in PDF form. 
+
+
+
 ## Statistics
 
 
@@ -26,9 +32,18 @@ Conceptlists in Concepticon:
 - **Cognacy:** 5,066 cognates in 1,126 cognate sets (646 singletons)
 - **Cognate Diversity:** 0.21
 - **Invalid lexemes:** 0
-- **Tokens:** 25,621
-- **Segments:** 172 (0 BIPA errors, 0 CTLS sound class errors, 172 CLTS modified)
+- **Tokens:** 25,594
+- **Segments:** 172 (0 BIPA errors, 0 CTLS sound class errors, 171 CLTS modified)
 - **Inventory size (avg):** 45.71
+
+## Possible Improvements:
+
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Yi (Mojiang) [yuan1242](http://glottolog.org/resource/languoid/id/yuan1242)
+  - Naxi (Lijiang) [naxi1246](http://glottolog.org/resource/languoid/id/naxi1246)
+  - Naxi (Yongning) [naxi1246](http://glottolog.org/resource/languoid/id/naxi1246)
+
+
 
 # Contributors
 
@@ -36,8 +51,9 @@ Name               | GitHub user  | Description    | Role
 ---                | ---          | ---            | ---
 Tianjun Gao        |              | data collector | DataCollector, Author
 Johann-Mattis List | @LinguList   | maintainer     | Other
-Moritz Toppmöller  | @moritz-topp | student        | Other
-Jost Markus        | @j0st        | student        | Other
-Vanessa Schmidt    | @Vangram     | student        | Other
-Iryna Fandraliuk   | @ifandraliuk | student        | Other
+Moritz Toppmöller  | @moritz-topp | student task        | Other
+Jost Markus        | @j0st        | student task        | Other
+Vanessa Schmidt    | @Vangram     | student task        | Other
+Iryna Fandraliuk   | @ifandraliuk | student task        | Other
+
 

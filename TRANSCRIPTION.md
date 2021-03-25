@@ -5,7 +5,7 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 2551 | ✓ | ✓ |
+| + | 2524 | ✓ | ✓ |
 | ⁵⁵ | 1899 | ✓ | ✓ |
 | ³³ | 1307 | ✓ | ✓ |
 | i | 1186 | ✓ | ✓ |
@@ -194,32 +194,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------|:---------------|:--------------|:---------------|:---------------------------------|
-| WrittenBurmese-1003_neg-1 | WrittenBurmese | 1003_neg | mɑ¹_bhu³ | m ɑ ¹ + + bʰ u ³ |
-| WrittenBurmese-172_hairfur-1 | WrittenBurmese | 172_hairfur | ɑ¹_mwe³ | ɑ ¹ + + m w e ³ |
-| WrittenBurmese-177_tail-1 | WrittenBurmese | 177_tail | ɑ¹_mri³ | ɑ ¹ + + m r i ³ |
-| WrittenBurmese-17_earth-1 | WrittenBurmese | 17_earth | mre²_kri³ | m r e ² + + k r i ³ |
-| WrittenBurmese-220_seed-1 | WrittenBurmese | 220_seed | mjo³_se¹ | m j o ³ + + s e ¹ |
-| WrittenBurmese-222_root-1 | WrittenBurmese | 222_root | ɑ¹_mrɑs | ɑ ¹ + + m r ɑ s |
-| WrittenBurmese-224_leaf-1 | WrittenBurmese | 224_leaf | ɑ¹_rwɑk | ɑ ¹ + + r w ɑ k |
-| WrittenBurmese-240_nose-1 | WrittenBurmese | 240_nose | hnɑ²_khɔŋ³ | h n ɑ ² + + kʰ ɔ ŋ ³ |
-| WrittenBurmese-241_ear-1 | WrittenBurmese | 241_ear | nɑ³_rwɑk | n ɑ ³ + + r w ɑ k |
-| WrittenBurmese-242_mouth-1 | WrittenBurmese | 242_mouth | pɑ³_sɑp | p ɑ ³ + + s ɑ p |
-| WrittenBurmese-248_neck-1 | WrittenBurmese | 248_neck | lɑȵ²_pɑŋ³ | l ɑ ȵ ² + + p ɑ ŋ ³ |
-| WrittenBurmese-259_breast-1 | WrittenBurmese | 259_breast | no¹_uṁ² | n o ¹ + + ũ ² |
-| WrittenBurmese-266_skin-1 | WrittenBurmese | 266_skin | ɑ¹_thɑ³_ɑ¹_re² | ɑ ¹ + + tʰ ɑ ³ + + ɑ ¹ + + r e ² |
-| WrittenBurmese-272_heart-1 | WrittenBurmese | 272_heart | hnɑ¹_luṁ³ | h n ɑ ¹ + + l ũ ³ |
-| WrittenBurmese-273_liver-1 | WrittenBurmese | 273_liver | ɑ¹_thɑȵ³ | ɑ ¹ + + tʰ ɑ ȵ ³ |
-| WrittenBurmese-291_woman-1 | WrittenBurmese | 291_woman | min³_mɑ¹ | m i n ³ + + m ɑ ¹ |
-| WrittenBurmese-399_meatflesh-1 | WrittenBurmese | 399_meatflesh | ɑ¹_thɑ³ | ɑ ¹ + + tʰ ɑ ³ |
-| WrittenBurmese-46_smoke-1 | WrittenBurmese | 46_smoke | mi³_kho³ | m i ³ + + kʰ o ³ |
-| WrittenBurmese-517_name-1 | WrittenBurmese | 517_name | nɑ²_mɑȵ² | n ɑ ² + + m ɑ ȵ ² |
-| WrittenBurmese-532_listen-1 | WrittenBurmese | 532_listen | nɑ³_htɔŋ² | n ɑ ³ + + tθ ɔ ŋ ² |
-| WrittenBurmese-971_we-1 | WrittenBurmese | 971_we | ŋɑ²_to¹ | ŋ ɑ ² + + t o ¹ |
-| WrittenBurmese-985_who-1 | WrittenBurmese | 985_who | mɑȵ²_thu² | m ɑ ȵ ² + + tʰ u ² |
-| WrittenBurmese-986_what-1 | WrittenBurmese | 986_what | ɑ¹_bhɑj² | ɑ ¹ + + bʰ ɑ j ² |
-| WrittenBurmese-999_alleven-1 | WrittenBurmese | 999_alleven | ɑ³_luṁ³ | ɑ ³ + + l ũ ³ |
+|------|------------|-----------|--------|------------|
 
-(24 rows)
+(0 rows)
 
 

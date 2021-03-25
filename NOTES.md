@@ -1,0 +1,1 @@
+We are thankful to the author to share the original data underlying the study. The data itself was edited in a student project at the University Bielefeld (Winter semester 2020/2021) to allow us to convert the data to the CLDF formats. Major work in this context was done in order to digitize the wordlist data, which was only available in PDF form. 
