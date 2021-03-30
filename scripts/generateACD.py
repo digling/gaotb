@@ -22,6 +22,7 @@ partSCA.partial_cluster(threshold=0.45, ref="cogids", cluster_method="upgma")
 #align the cluster and save it
 almsSCA = Alignments(partSCA, ref='cogids')
 almsSCA.align()
+wl.output('dst', filename='autoCognatesSCA')
 almsSCA.output('tsv', filename='autoCognatesSCA', ignore='all', prettify=False)
 
 #add missing ids for the tree
@@ -39,6 +40,7 @@ partLEX = Partial.from_cldf(Dataset().cldf_dir.joinpath('cldf-metadata.json'))
 #generate cluster
 partLEX.get_partial_scorer(runs=1000)
 partLEX.partial_cluster(method='lexstat', threshold=0.55, cluster_method='upgma', ref="lexstatids")
+wl.output('dst', filename='autoCognatesLEX')
 partLEX.output('tsv', filename='autoCognatesLEX', ignore='all', prettify=False)
 
 #plot
