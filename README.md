@@ -1,8 +1,14 @@
 # CLDF dataset derived from Gao's "Tibeto-Burman languages in China" from 2020
 
-Cite the source dataset as
+## How to cite
 
-> Gao, Tianjun (2020): Reconstruction and analysis of phylogenetic network on Tibeto-Burman languages in China. Journal of Chinese Linguistics, 48:1, 257-293.
+If you use these data please cite
+- the original source
+  > Gao, Tianjun (2020): Reconstruction and analysis of phylogenetic network on Tibeto-Burman languages in China. Journal of Chinese Linguistics, 48:1, 257-293.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -57,3 +63,10 @@ Vanessa Schmidt    | @Vangram     | student task        | Other
 Iryna Fandraliuk   | @ifandraliuk | student task        | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
