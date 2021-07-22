@@ -1,5 +1,7 @@
 # CLDF dataset derived from Gao's "Tibeto-Burman languages in China" from 2020
 
+[![CLDF validation](https://github.com/digling/gaotb/workflows/CLDF-validation/badge.svg)](https://github.com/digling/gaotb/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -24,6 +26,7 @@ We are thankful to the author to share the original data underlying the study. T
 ## Statistics
 
 
+[![CLDF validation](https://github.com/digling/gaotb/workflows/CLDF-validation/badge.svg)](https://github.com/digling/gaotb/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
