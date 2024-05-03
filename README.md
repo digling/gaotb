@@ -42,17 +42,8 @@ We are thankful to the author to share the original data underlying the study. T
 - **Cognate Diversity:** 0.21
 - **Invalid lexemes:** 0
 - **Tokens:** 25,594
-- **Segments:** 172 (0 BIPA errors, 0 CTLS sound class errors, 171 CLTS modified)
+- **Segments:** 172 (0 BIPA errors, 0 CLTS sound class errors, 171 CLTS modified)
 - **Inventory size (avg):** 45.71
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Yi (Mojiang) [yuan1242](http://glottolog.org/resource/languoid/id/yuan1242)
-  - Naxi (Lijiang) [naxi1246](http://glottolog.org/resource/languoid/id/naxi1246)
-  - Naxi (Yongning) [naxi1246](http://glottolog.org/resource/languoid/id/naxi1246)
-
-
 
 # Contributors
 
