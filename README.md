@@ -33,8 +33,8 @@ We are thankful to the author to share the original data underlying the study. T
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 51
-- **Concepts:** 100
+- **Varieties:** 51 (linked to 42 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 5,085
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -50,7 +50,7 @@ We are thankful to the author to share the original data underlying the study. T
 Name               | GitHub user  | Description    | Role
 ---                | ---          | ---            | ---
 Tianjun Gao        |              | data collector | DataCollector, Author
-Johann-Mattis List | @LinguList   | maintainer     | Other
+Johann-Mattis List | @LinguList   | maintainer     | Editor
 Moritz Toppmöller  | @moritz-topp | student task        | Other
 Jost Markus        | @j0st        | student task        | Other
 Vanessa Schmidt    | @Vangram     | student task        | Other

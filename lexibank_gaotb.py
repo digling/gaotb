@@ -12,16 +12,20 @@ class CustomLanguage(Language):
     Number = attr.ib(default=None)
     Chinese_Name = attr.ib(default=None)
 
+
 @attr.s
 class CustomConcept(Concept):
     Number = attr.ib(default=None)
     Chinese_Gloss = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "gaotb"
     language_class = CustomLanguage
     concept_class = CustomConcept
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     form_spec = FormSpec(
         missing_data=("---",),
         separators="/;",
